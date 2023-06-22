@@ -1,0 +1,11 @@
+header {
+    display: flex;
+    align-items: center;
+    background-color: rgb(215, 162, 97);
+    height: var(--header-height);
+    padding: 0 1rem;
+  }
+  
+  header h1 {
+    margin: 0;
+  }
